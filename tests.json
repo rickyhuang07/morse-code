@@ -1,0 +1,1 @@
+{"0.D": {"test_1_append_morse_symbol.py": ["test_add_random", "test_delete"], "test_2_translate_message.py": ["test_decode_message"], "test_3_pulse.py": ["test_pulse"]}, "1.C": {"test_prox_pulse.py": ["test_prox_pulse"]}, "2.A": {"test_add_mark.py": ["test_add_mark"], "test_set_color.py": ["test_set_color"]}}

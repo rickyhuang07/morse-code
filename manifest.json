@@ -1,0 +1,3 @@
+{
+    "upload": ["src/interact.py", "src/morse_code.py", "src/morse_engine.py", "src/prox_pulse.py", "src/pulse.py"]
+}
